@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="503097f0-7033-4e2d-b494-57e08f4be18e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../demo-project/src/components/Accordion.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-project/src/components/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-project/src/components/LandingPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-project/src/components/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-project/src/components/Section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-project/src/components/FAQ.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-project/src/components/FAQ.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-project/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-project/src/components/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-project/src/components/Help.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-project/src/components/Help.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-project/src/components/LandingPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-project/src/components/LandingPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-project/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-project/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-project/src/components/Section.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-project/src/components/Section.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2jMQHSANaYeMBU9al87FEVWeLIv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-249ae16d76d6-e0389a16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="503097f0-7033-4e2d-b494-57e08f4be18e" name="Changes" comment="" />
+      <created>1721194379849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721194379849</updated>
+    </task>
+    <servers />
+  </component>
+</project>
